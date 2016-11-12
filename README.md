@@ -13,7 +13,7 @@ $ npm i eslint --save-dev
 Next, install `eslint-plugin-delta`:
 
 ```
-$ npm install eslint-plugin-delta --save-dev
+$ npm install --save-dev git+https://git@github.com/jamischarles/ps_eslint-plugin-delta.git
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-delta` globally.
